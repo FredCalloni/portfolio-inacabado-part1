@@ -1,0 +1,50 @@
+header{
+    background-color: white;
+    height: 50px;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+}
+header input{
+    height: 15px;
+    margin-left: 25px;
+    margin-right: 5px;
+}
+header h2{
+    font-size: 30px;
+}
+header button{
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.abidou{
+    width: 80px;
+    height: 800px;
+    background-color: white;
+    position: relative;
+    float: left;
+}
+.biridou{
+    height: 800px;
+    width: 1800px;
+    align-items: center;
+    float: right;
+    border-color: #c3d9ff;
+    border-width: 6px;
+    background-color: #e8eef7;
+    border-style: solid;
+}
+
+.bugalu button{
+    width: 1800px;
+    background-color: #e8eef7;
+    text-align: start;
+    border-style: ridge;
+    border-width: 1px;
+}
+
+.bingo{
+    background-color: #c3d9ff;
+    padding: 4px;
+    border-color: #c3d9ff;
+}
